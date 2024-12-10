@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: hsl(217, 54%, 11%);
+}
+
+.font-Overfit{
+  font-family: "Overfit";
+}
